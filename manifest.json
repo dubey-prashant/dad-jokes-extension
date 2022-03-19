@@ -1,9 +1,9 @@
 {
-   "name": "Jokes",
+   "name": "Random Dad Jokes",
    "version": "1.0.0",
    "description": "Random jokes generator that fetches jokes from icanhazdadjoke REST API",
-   "manifest_version": 2,
-   "browser_action": {
+   "manifest_version": 3,
+   "action": {
       "default_popup": "popup.html",
       "default_icon": "icon.png"
    },
